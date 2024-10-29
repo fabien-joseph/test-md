@@ -1,5 +1,4 @@
 # Domain 2
-## Description
 Domain 2 is ...[WHAT ?]... for ...[FOR ?]...
 
 ## References
